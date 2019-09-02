@@ -1,0 +1,18 @@
+body {
+    background-color: yellow;
+    color: rgb(23, 26, 59);
+    font-size: 1.1em;
+}
+header {
+    text-align: center;
+}
+#size {
+    font-size: 1.2em;
+}
+h1, h3 {
+    color: red;
+    text-align: center;
+}
+hr {
+    width: 80%;
+}
